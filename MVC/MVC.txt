@@ -1,0 +1,5 @@
+So MVC stands for Model View Controller 
+As all the things in one file index.js will make code complex and not easy to manage and scale 
+That's why we use MVC(Model View Controller)
+
+So Model view Controller is which contains -> Models / Views / Controller / Routes folder which make code readable and easy to manage.

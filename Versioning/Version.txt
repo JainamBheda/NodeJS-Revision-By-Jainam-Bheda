@@ -1,0 +1,13 @@
+So versioning is imp in terms of security 
+
+so express.js version is ^5.1.0
+
+so First part -> 5
+   Second part -> 1
+   Third part -> 0
+
+Third part = Minor change -> optional to download 
+Second part = Recommended Bug changes 
+Third part = Major / breaking update -> previous version might not work
+
+^ -> using this we can suggest user -> ^5 == 5.1.0 to 6.0.0 is safe and use to ,after 6.0.0 the things might get changes 

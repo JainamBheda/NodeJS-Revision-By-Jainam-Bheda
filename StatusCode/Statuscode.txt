@@ -1,0 +1,7 @@
+So Status code tell us whether specific HTTP request has been successfully completed...
+
+ 100 - 199 -> information response
+ 200 - 299 -> successfull response
+ 300 - 399 -> Redirectional response
+ 400 - 499 -> Client error response
+ 500 - 599 -> Server side response

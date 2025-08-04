@@ -1,0 +1,16 @@
+So we are desiging a RESTfull API
+
+so we are making JSON based api 
+so here are some task to be done 
+
+GET/users - HTML Document render ( incase of browser)
+GET/api/users - get all user JSON 
+
+GET/api/user/1 - get the user with id 1
+GET/api/user/2 - get the user with id 2
+
+POST/api/user - to create a new user 
+
+PATCH/api/user/id - edit the user having id
+
+DELETE/api/user/id - delete the user having id 

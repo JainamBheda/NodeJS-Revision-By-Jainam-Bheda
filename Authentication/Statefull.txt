@@ -1,0 +1,13 @@
+So in Statefull autentication 
+
+- user logins 
+- server create session and stores 
+- send response of session as session ID / cookies / headers
+- client while requesting everything it sends cookies/ Session ID for autentication to server , so that server can recognize client 
+
+Disadvantage of Statefull autentication 
+
+- Whenever Server is restarted, its state are lost and all user get logged out 
+- it takes server memory to store session ID 
+
+to overcome this we use Stateless autentication (JWT)

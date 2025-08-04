@@ -1,0 +1,27 @@
+if we want to define what action should be performed on given resourse ( like data in server) we use http methods 
+
+so there are five http methods 
+GET 
+POST
+PUT
+PATCH 
+DELETE
+
+GET 
+For getting the data from server 
+example Searching on Browser
+
+POST 
+for sending or mutate some data in server 
+example filling sign up form
+
+PUT 
+for uploading file/image we use PUT 
+example uploading resume 
+
+PATCH 
+if we want to change/update the data in server use patch 
+
+DELETE 
+if we want to delete a particular data from server use DELETE
+example deleting insta account

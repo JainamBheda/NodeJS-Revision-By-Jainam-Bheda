@@ -1,0 +1,3 @@
+to connect MongoDB with Node.js we use mongoose 
+
+So first we define the Schema Structure -> then make Schema Model -> Using model we do CRUD Operations
